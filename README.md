@@ -54,8 +54,6 @@ Depending on the training setup and dataset quality, performance may vary across
 You can try the deployed version of this project here:
 
 **Hugging Face Link:**  
-[Link](https://huggingface.co/spaces/Sadegh-ai/AnimalVision-90)
+[AnimalVision-90 huggingface](https://huggingface.co/spaces/Sadegh-ai/AnimalVision-90)
 
-Example:
-```md
-[AnimalVision on Hugging Face](https://huggingface.co/spaces/your-username/your-space-name)
+
